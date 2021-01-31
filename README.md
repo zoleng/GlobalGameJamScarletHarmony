@@ -19,3 +19,4 @@ Please wait for the game to charge and do not click multiple times on the "next"
 Use the direction/arrow keys to move the player\
 Read carefully the indications to find the next step of the game\
 You will find the ability to see the light, hear the sounds and see the colors !
+
